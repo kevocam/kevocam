@@ -25,9 +25,12 @@ building digital products using JavaScript, VueJs, ReactJs, and Laravel.
 <h2>
     <a align="center"  target="_blank" href="https://kevincamargo.com">👉👉👉 Portfolio</a>
 </h2>
+<h4>
+   Let's do it:  <a align="center"  target="_blank" href="https://www.linkedin.com/in/kevocam/">Linkedin</a>
+</h4>
 
 <h4>
-    Otros proyectos:
+    Other Proyects:
 </h4>
 
 - [Fylo-landing (frontendMentor)](https://kevocam.github.io/-frontendmentor-fylo-landing-page/)
